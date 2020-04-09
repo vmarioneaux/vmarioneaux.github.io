@@ -1,0 +1,42 @@
+.container{
+margin:0 auto;
+width:960px;
+border: thin solid black;
+}
+
+header{
+height:100px;
+border-bottom: thin solid black;
+padding:10px;
+text-align:center;
+}
+
+nav{
+
+width:160px;
+float:left;
+padding:5px;
+}
+
+nav a{
+color:red;
+}
+
+nav a:hover{
+color:green;
+}
+
+section{
+width:760px;
+float:left;
+padding:10px;
+border-left: thin solid black;
+}
+
+footer{
+clear:both;
+height:50px;
+border-top: thin solid black;
+padding:5px;
+text-align:center;
+}
